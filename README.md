@@ -5,6 +5,7 @@ Domain:- PYTHON PROGRAMING
 Duration:- 8WEEKS[NOV'24 TO JAN'25]
 Mentor:- HARISH NEELAM
 
+Project:-simple caluculator
 
 
 How it works:
